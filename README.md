@@ -8,4 +8,4 @@ The appendix includes Python code used for analysis and the corresponding valida
 ## How to Use  
 - Download the `Appendix.pdf` file to view the full code and results.  
 
-For any questions, feel free to reach out via email: chaymae.salhi@research.ami.ac.ma  
+For any questions, feel free to reach out via email: chaymae.salhi@research.emi.ac.ma  
